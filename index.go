@@ -6,7 +6,7 @@ import (
 
 	"github.com/olivere/elastic"
 )
-
+///more editation
 const (
 	POST_INDEX = "post"
 	USER_INDEX = "user"
